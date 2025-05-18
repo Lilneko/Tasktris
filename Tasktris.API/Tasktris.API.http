@@ -1,0 +1,6 @@
+@Tasktris.API_HostAddress = http://localhost:5139
+
+GET {{Tasktris.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
